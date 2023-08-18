@@ -1,0 +1,9 @@
+.brt{
+    height: 27px;
+    width: 124px;
+}
+@media (max-width: 576px) {
+    .my-class {
+      display: none;
+    }
+}
